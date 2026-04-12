@@ -1,5 +1,5 @@
 <h1>Site Concessionária Esportiva</h1>
-<h2>🖥 Projeto Concluido ✅ Em Breve teremos novidades para esse projeto </h2> 
+<h2>🖥 Projeto Concluido ✅ Em breve teremos novidades para esse projeto </h2> 
 
 
 <h2>📋 Sobre o projeto</h2>
