@@ -1,6 +1,6 @@
 <h1>Site Concessionária Esportiva</h1>
 <p align="center">
-<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/7d9c8724-7106-4c4b-b545-273f591b9038" />
+<img width="1861" height="918" alt="Image" src="https://github.com/user-attachments/assets/35236a9d-1fbb-4843-9620-b863e9c49f83" />
 </p>
 <h2>🖥 Projeto Concluido ✅ Em breve teremos novidades para esse projeto </h2> 
 
